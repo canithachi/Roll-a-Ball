@@ -6,7 +6,5 @@
 <br>
 <b>Example screenshots of our completed Roll A Ball game.</b><br><br> 
 <br>
-<b>Example screenshots of our completed Just Java App in English, Spanish, French and Korean</b><br><br>
-<b>English Version</b>&nbsp;&nbsp;:us:<br><br>
 ![Alt text](https://github.com/canithachi/Roll-a-Ball/blob/master/screenshots/rollaball.PNG "English Unfilled Version")
 <br><br>
